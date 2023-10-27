@@ -1,0 +1,224 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1990-01-01",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@gmail.com",
+      "phone": "9876543210",
+      "birthday": "1995-03-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Computer Science",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "email": "mike@gmail.com",
+      "phone": "5556667777",
+      "birthday": "1992-07-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Electrical Engineering",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "email": "emily@gmail.com",
+      "phone": "1239874560",
+      "birthday": "1993-09-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2019"
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "email": "david@gmail.com",
+      "phone": "7894561230",
+      "birthday": "1988-11-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Information Technology",
+      "admissionYear": "2018"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Davis",
+      "email": "sarah@gmail.com",
+      "phone": "3332221111",
+      "birthday": "1997-04-30",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Computer Science",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 7,
+      "name": "James Lee",
+      "email": "james@gmail.com",
+      "phone": "1113335555",
+      "birthday": "1991-12-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Electrical Engineering",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Taylor",
+      "email": "olivia@gmail.com",
+      "phone": "4567890123",
+      "birthday": "1994-08-18",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 9,
+      "name": "Michael Anderson",
+      "email": "michael@gmail.com",
+      "phone": "7778889999",
+      "birthday": "1996-06-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Information Technology",
+      "admissionYear": "2019"
+    },
+    {
+      "id": 10,
+      "name": "Ava Garcia",
+      "email": "ava@gmail.com",
+      "phone": "9871234560",
+      "birthday": "1989-10-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Computer Science",
+      "admissionYear": "2018"
+    },
+    {
+      "id": 11,
+      "name": "William Martinez",
+      "email": "william@gmail.com",
+      "phone": "2225558888",
+      "birthday": "1998-02-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Electrical Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 12,
+      "name": "Mia Harris",
+      "email": "mia@gmail.com",
+      "phone": "3334445555",
+      "birthday": "1990-06-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 13,
+      "name": "Ethan King",
+      "email": "ethan@gmail.com",
+      "phone": "1234567890",
+      "birthday": "1987-04-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Information Technology",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 14,
+      "name": "Sophia Lopez",
+      "email": "sophia@gmail.com",
+      "phone": "5552221111",
+      "birthday": "1992-09-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Computer Science",
+      "admissionYear": "2019"
+    },
+    {
+      "id": 15,
+      "name": "Liam Wilson",
+      "email": "liam@gmail.com",
+      "phone": "7779993333",
+      "birthday": "1985-11-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Electrical Engineering",
+      "admissionYear": "2018"
+    },
+    {
+      "id": 16,
+      "name": "Chloe Taylor",
+      "email": "chloe@gmail.com",
+      "phone": "1237779999",
+      "birthday": "1993-03-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 17,
+      "name": "Noah Anderson",
+      "email": "noah@gmail.com",
+      "phone": "8885552222",
+      "birthday": "1988-08-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Information Technology",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 18,
+      "name": "Avery Brown",
+      "email": "avery@gmail.com",
+      "phone": "3331117777",
+      "birthday": "1996-01-30",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Computer Science",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 19,
+      "name": "Logan Johnson",
+      "email": "logan@gmail.com",
+      "phone": "9994446666",
+      "birthday": "1994-05-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Electrical Engineering",
+      "admissionYear": "2019"
+    },
+    {
+      "id": 20,
+      "name": "Isabella Smith",
+      "email": "isabella@gmail.com",
+      "phone": "1112223333",
+      "birthday": "1997-07-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2018"
+    }
+  ]
+}
