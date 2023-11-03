@@ -219,6 +219,17 @@
       "section": "65/45",
       "major": "Mechanical Engineering",
       "admissionYear": "2018"
+    },
+    {
+      "name": "Thirayut BooninEZ",
+      "email": "thirayutza@gmail.com",
+      "phone": "0123456789",
+      "birthday": "2023-11-03",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineer",
+      "admissionYear": "2000",
+      "id": 21
     }
   ]
 }

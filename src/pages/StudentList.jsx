@@ -23,7 +23,16 @@ const StudentList = () => {
     navigate("/student/detail/" + id);
   };
   const removeStudent = (id) => {
-    alert("delete" + id);
+    if(window.confirm("Do you want to remove?")){
+      fetch("http://localhost:8000/student/"+id,{
+        method:"DELETE"
+      }).then((res)=>{
+        alert("Remove Sucessfully")
+        window.location.reload()
+      }).catch((err)=>{
+        console.log(err);
+      })
+    }
   };
   return (
     <div className="container">
